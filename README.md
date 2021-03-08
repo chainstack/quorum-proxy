@@ -1,6 +1,7 @@
 # quorum-proxy
 Simple proxy for Chainstack Quorum nodes.
 The proxy adds Authorization header to all RPC/TM requests.
+
 See also [Using quorum-proxy Docker for authentication](https://support.chainstack.com/hc/en-us/articles/900005774723-Using-quorum-proxy-Docker-for-authentication).
 
 # CI
